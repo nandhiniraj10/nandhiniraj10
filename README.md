@@ -1,25 +1,3 @@
-<h1 align="centre">Hey 👋 I'm Nandhini</h1>
-
-###
-
-###
-
-<h3 align="left">About me</h3>
-
-###
-
-<p align="left">Experienced Full-stack Software Engineer with 2 years of expertise in Python-based web development, specializing in Django<br>and Flask frameworks. Proficient in frontend technologies including React, HTML,CSS, and JavaScript. Skilled in database management with MySQL,Postgresql,Mongodb and experienced in deploying applications on AWS (EC2, S3). Proven track record in developing automated systems,integrating APIs such as Twilio, and ensuring rigorous testing and security measures.
-
-###
-
-<p align="left">✨ Creating bugs since 2023<br>🎯 I'm Currently working on: Colan Infotech Pvt Ltd<br>📚 I'm currently learning react<br>🎲 Fun fact: jovial</p>
-
-###
-
-
-
-
-
 ###
 <h1 align="center">Hi 👋, I'm nandhini</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
@@ -27,6 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandhini10&label=Profile%20views&color=0e75b6&style=flat" alt="nandhini10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandhini10" alt="nandhini10" /></a> </p>
+
+<h3 align="left">About me</h3>
+
+###
+
+<p align="left">Experienced Full-stack Software Engineer with 2 years of expertise in Python-based web development, specializing in Django<br>and Flask frameworks. Proficient in frontend technologies including React, HTML,CSS, and JavaScript. Skilled in database management with MySQL,Postgresql,Mongodb and experienced in deploying applications on AWS (EC2, S3). Proven track record in developing automated systems,integrating APIs such as Twilio, and ensuring rigorous testing and security measures.
 
 - 🔭 I’m currently working on **Colan Infotech Pvt Ltd**
 
