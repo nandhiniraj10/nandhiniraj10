@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Experienced Full-stack Software Engineer with 2 years of expertise in Python-based web development, specializing in Django<br>and Flask frameworks. Proficient in frontend technologies including React, HTML,CSS, and JavaScript. Skilled in database management with MySQL,Postgresql,Mongodb and experienced in deploying applications on AWS (EC2, S3). Proven track record in developing automated systems,integrating APIs such as Twilio, and ensuring rigorous testing and security measures.
+<p align="left">Experienced Full-stack Software Engineer with 2 years of expertise in Python-based web development, specializing in Django and Flask frameworks. Proficient in frontend technologies including React, HTML,CSS, and JavaScript. Skilled in database management with MySQL,Postgresql,Mongodb and experienced in deploying applications on AWS (EC2, S3). Proven track record in developing automated systems,integrating APIs such as Twilio, and ensuring rigorous testing and security measures.
 
 - 🔭 I’m currently working on **Colan Infotech Pvt Ltd**
 
@@ -20,13 +20,10 @@
 
 - 📫 How to reach me **nandhininiraj1112@gmail.com**
 
-- 📄 Know about my experiences [,mn ,m](,mn ,m)
+- 📄 Know about my experiences ..
 
 - ⚡ Fun fact **I think I'm funny**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
