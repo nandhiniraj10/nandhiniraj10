@@ -7,6 +7,7 @@
 - ⚡ Fun fact: y
 
 <!---
-nandhiniraj10/nandhiniraj10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+**ABOUT ME**
+Experienced Full-stack Software Engineer with 2 years of expertise in Python-based web development, specializing in Django
+and Flask frameworks. Proficient in frontend technologies including React, HTML,CSS, and JavaScript. Skilled in database management with MySQL,Postgresql,Mongodb and experienced in deploying applications on AWS (EC2, S3). Proven track record in developing automated systems,integrating APIs such as Twilio, and ensuring rigorous testing and security measures.
 --->
