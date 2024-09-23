@@ -1,5 +1,5 @@
 ###
-<h1 align="center">Hi 👋, I'm nandhini</h1>
+<h1 align="center">Hi 👋, I'm Nandhini Rajendran</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandhini10&label=Profile%20views&color=0e75b6&style=flat" alt="nandhini10" /> </p>
