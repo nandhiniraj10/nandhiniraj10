@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>🎯 I'm Currently working on: Colan Infotech Pvt Ltd<br>📚 I'm currently learning** react** <br>🎲 Fun fact: jovial</p>
+<p align="left">✨ Creating bugs since 2023<br>🎯 I'm Currently working on: Colan Infotech Pvt Ltd<br>📚 I'm currently learning react<br>🎲 Fun fact: jovial</p>
 
 ###
 
