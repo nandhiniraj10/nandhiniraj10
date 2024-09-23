@@ -71,7 +71,7 @@ Email : nandhiniraj1112@gmail.com
 
 ###
 
-<img align="right" height="150" src="[https://www.bing.com/images/search?view=detailV2&ccid=qdAW1TjC&id=E2F524DDD39E0306EBFF7FBAA4C844FFC8770668&thid=OIP.qdAW1TjCN57h1lbuuzvchgHaFj&mediaurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1857592%2Fscreenshots%2F3848396%2Fcharacter-typing.gif&exph=600&expw=800&q=animated+coding+gif+for+girls&simid=608034956132695594&form=IRPRST&ck=23C9A6F4DD320D75B8EBA32BF6BBBFA1&selectedindex=0&itb=0&cw=1145&ch=535&ajaxhist=0&ajaxserp=0&vt=0&sim=11](https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif)]"  />
+<img align="right" height="150" src="[https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif)]"  />
 
 ###
 
