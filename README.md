@@ -10,19 +10,9 @@
 
 <p align="left">Experienced Full-stack Software Engineer with 2 years of expertise in Python-based web development, specializing in Django<br>and Flask frameworks. Proficient in frontend technologies including React, HTML,CSS, and JavaScript. Skilled in database management with MySQL,Postgresql,Mongodb and experienced in deploying applications on AWS (EC2, S3). Proven track record in developing automated systems,integrating APIs such as Twilio, and ensuring rigorous testing and security measures.
 
-<h1 align="left">Hey 👋 What's up?</h1>
-
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2023<br>🎯 I'm Currently working on: Colan Infotech Pvt Ltd<br>📚 I'm currently learning** react** <br>🎲 Fun fact: jovial</p>
 
 ###
 
